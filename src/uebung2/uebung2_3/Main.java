@@ -1,6 +1,5 @@
 package uebung2.uebung2_3;
 
-import tutorium.innerClasses.Building;
 
 public class Main {
 
@@ -14,7 +13,7 @@ public class Main {
         //create a room!
         //Building.Room room2 = new Building.Room("34")
 
-        System.out.println(building.getName() + room.getRoomNumber());
+        System.out.println(building.getName() + room.getNumber());
 
 
     }

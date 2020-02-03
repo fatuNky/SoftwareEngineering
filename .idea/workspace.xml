@@ -2,13 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90740fe4-be2f-450e-92b1-55a23b93c5d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/tutorium/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorium/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorium/abstractClasses/AbsAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorium/abstractClasses/AbsAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorium/abstractClasses/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorium/abstractClasses/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorium/abstractClasses/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorium/abstractClasses/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorium/abstractClasses/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorium/abstractClasses/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorium/abstractClasses/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorium/abstractClasses/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorium/innerClasses/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorium/innerClasses/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise3/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise7/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise7/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise8/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exercise8/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exersice5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exersice5/MyPrimeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KlausurSoSe19/exersice5/TooManyCallsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/KlausurSoSe19/exersice5/MyPrimeCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise10/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise10/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise11/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise3/Db.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise3/DbAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise3/MySql.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise3/Oracle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise4/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise4/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise4/Secretary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise4/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise6and7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise6and7/TriConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise6and7/TriFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Klausur/exercise8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/Spielwiese/DependencyInjection/With/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/Spielwiese/DependencyInjection/With/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/abstractClasses/AbsAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/abstractClasses/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/abstractClasses/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/abstractClasses/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/abstractClasses/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/innerClasses/Building$Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/tutorium/innerClasses/Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/uebung10/uebung10_2/FacultyOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/uebung10/uebung10_2/FacultyOfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_3/Building$Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_3/Building$Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_3/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_3/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_4/Car$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_4/Car$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_4/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/uebung2/uebung2_4/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_Data/uebung7/uebung7_6bis9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_Data/uebung7/uebung7_6bis9/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java_Data/Klausur/exercise8/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/java_Data/uebung10/uebung10_3/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/java_Data/uebung10/uebung10_3/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise10/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise10/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise10/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise10/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise11/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise11/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise3/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise3/Db.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise3/DbAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise3/DbAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise3/MySql.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise3/MySql.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise3/Oracle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise3/Oracle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise4/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise4/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise4/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise4/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise4/Secretary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise4/Secretary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise6and7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise6and7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise6and7/TriConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise6and7/TriConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise6and7/TriFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise6and7/TriFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Klausur/exercise8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Probeklausur/exercise8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tutorium" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uebung10/uebung10_2/FacultyOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uebung10/uebung10_2/FacultyOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uebung11/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uebung11/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uebung2/uebung2_3/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uebung2/uebung2_3/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uebung2/uebung2_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uebung2/uebung2_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uebung2/uebung2_4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uebung2/uebung2_4/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Klausur/exercise8/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Probeklausur/exercise8/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/uebung10/uebung10_3/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/uebung10/uebung10_3/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +95,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -29,7 +103,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/tutorium" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="WARN_ABOUT_CRLF" value="false" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
@@ -42,26 +116,39 @@
     </option>
   </component>
   <component name="ProjectId" id="1Tcdf4lRfkMmR2pKQq9Dpozi5ur" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../GitRepos/MyNotificationApp" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="KlausurSoSe19.exersice5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Spielwiese.DependencyInjection.Without.Main" />
+    <configuration name="Building" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uebung2.uebung2_3.Building" />
       <module name="java_Data" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Spielwiese.DependencyInjection.Without.*" />
+          <option name="PATTERN" value="uebung2.uebung2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +156,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uebung9.uebung9_2.Main" />
+    <configuration name="FacultyOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uebung10.uebung10_2.FacultyOfNumber" />
       <module name="java_Data" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uebung9.uebung9_2.*" />
+          <option name="PATTERN" value="uebung10.uebung10_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Probeklausur.exercise11.Main" />
+      <module name="java_Data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Probeklausur.exercise11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +183,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Spielwiese.DependencyInjection.With.Main" />
+      <option name="MAIN_CLASS_NAME" value="uebung6.uebung6_3.Main" />
       <module name="java_Data" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Spielwiese.DependencyInjection.With.*" />
+          <option name="PATTERN" value="uebung6.uebung6_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,25 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uebung11.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KlausurSoSe19.exercise3.Main" />
       <module name="java_Data" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="uebung11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsernameGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uebung5.uebung5_2.UsernameGenerator" />
-      <module name="java_Data" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="uebung5.uebung5_2.*" />
+          <option name="PATTERN" value="KlausurSoSe19.exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,10 +211,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Building" />
+        <item itemvalue="Application.FacultyOfNumber" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.UsernameGenerator" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,63 +257,76 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="803" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1578839541515">
+    <state x="761" y="352" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1580116871288">
+      <screen x="0" y="168" width="1920" height="912" />
+    </state>
+    <state x="761" y="352" key="#com.intellij.ide.util.MemberChooser/1920.141.1920.1080/0.168.1920.912@0.168.1920.912" timestamp="1580116871288" />
+    <state x="803" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1579448428617" />
+    <state x="748" y="414" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579445193005">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="803" y="240" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1578839541515" />
-    <state x="748" y="414" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576836292608">
-      <screen x="70" y="27" width="1850" height="1053" />
-    </state>
-    <state x="748" y="414" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.1850.1053@70.27.1850.1053" timestamp="1576836292608" />
+    <state x="748" y="414" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.1850.1053@70.27.1850.1053" timestamp="1579445193005" />
     <state x="786" y="318" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579254632238">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576577608852" />
     <state x="786" y="318" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1579254632238" />
-    <state width="1804" height="266" key="GridCell.Tab.0.bottom" timestamp="1578864247383">
+    <state width="1804" height="265" key="GridCell.Tab.0.bottom" timestamp="1580142296071">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="266" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1578864247383" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/1920.141.1920.1080/0.168.1920.912@0.168.1920.912" timestamp="1580117006503" />
+    <state width="1804" height="265" key="GridCell.Tab.0.bottom/1920.141.1920.1080/70.27.1850.1053@70.27.1850.1053" timestamp="1580142296071" />
+    <state width="1804" height="266" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1579868385140" />
     <state width="1804" height="278" key="GridCell.Tab.0.bottom/70.27.3770.1053@70.27.3770.1053" timestamp="1578481500717" />
-    <state width="1804" height="266" key="GridCell.Tab.0.center" timestamp="1578864247382">
+    <state width="1804" height="265" key="GridCell.Tab.0.center" timestamp="1580142296071">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="266" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1578864247382" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center/1920.141.1920.1080/0.168.1920.912@0.168.1920.912" timestamp="1580117006502" />
+    <state width="1804" height="265" key="GridCell.Tab.0.center/1920.141.1920.1080/70.27.1850.1053@70.27.1850.1053" timestamp="1580142296071" />
+    <state width="1804" height="266" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1579868385140" />
     <state width="1804" height="278" key="GridCell.Tab.0.center/70.27.3770.1053@70.27.3770.1053" timestamp="1578481500716" />
-    <state width="1804" height="266" key="GridCell.Tab.0.left" timestamp="1578864247382">
+    <state width="1804" height="265" key="GridCell.Tab.0.left" timestamp="1580142296071">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="266" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1578864247382" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left/1920.141.1920.1080/0.168.1920.912@0.168.1920.912" timestamp="1580117006501" />
+    <state width="1804" height="265" key="GridCell.Tab.0.left/1920.141.1920.1080/70.27.1850.1053@70.27.1850.1053" timestamp="1580142296071" />
+    <state width="1804" height="266" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1579868385139" />
     <state width="1804" height="278" key="GridCell.Tab.0.left/70.27.3770.1053@70.27.3770.1053" timestamp="1578481500716" />
-    <state width="1804" height="266" key="GridCell.Tab.0.right" timestamp="1578864247382">
+    <state width="1804" height="265" key="GridCell.Tab.0.right" timestamp="1580142296071">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="266" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1578864247382" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right/1920.141.1920.1080/0.168.1920.912@0.168.1920.912" timestamp="1580117006502" />
+    <state width="1804" height="265" key="GridCell.Tab.0.right/1920.141.1920.1080/70.27.1850.1053@70.27.1850.1053" timestamp="1580142296071" />
+    <state width="1804" height="266" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1579868385140" />
     <state width="1804" height="278" key="GridCell.Tab.0.right/70.27.3770.1053@70.27.3770.1053" timestamp="1578481500716" />
-    <state width="1804" height="362" key="GridCell.Tab.1.bottom" timestamp="1578659345177">
+    <state width="1804" height="362" key="GridCell.Tab.1.bottom" timestamp="1579355411535">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="362" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1578659345177" />
-    <state width="1804" height="362" key="GridCell.Tab.1.center" timestamp="1578659345176">
+    <state width="1804" height="362" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1579355411535" />
+    <state width="1804" height="362" key="GridCell.Tab.1.center" timestamp="1579355411533">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="362" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1578659345176" />
-    <state width="1804" height="362" key="GridCell.Tab.1.left" timestamp="1578659345176">
+    <state width="1804" height="362" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1579355411533" />
+    <state width="1804" height="362" key="GridCell.Tab.1.left" timestamp="1579355411533">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="362" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1578659345176" />
-    <state width="1804" height="362" key="GridCell.Tab.1.right" timestamp="1578659345177">
+    <state width="1804" height="362" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1579355411533" />
+    <state width="1804" height="362" key="GridCell.Tab.1.right" timestamp="1579355411534">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1804" height="362" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1578659345177" />
-    <state x="478" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1576836837143">
+    <state width="1804" height="362" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1579355411534" />
+    <state x="478" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1579865371303">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="478" y="131" width="1024" height="852" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1576836837143" />
-    <state x="689" y="258" width="602" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578838014071">
+    <state x="478" y="131" width="1024" height="852" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1579865371303" />
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579447504042">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="689" y="258" width="602" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578838014071" />
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053@70.27.1850.1053" timestamp="1579447504042" />
+    <state x="689" y="258" width="602" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579338421234">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="689" y="258" width="602" height="597" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1579338421234" />
     <state x="2189" y="142" width="1372" height="803" key="new project wizard" timestamp="1577105797456">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -235,6 +335,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="937" y="105" width="598" height="750" key="refactoring.ChangeSignatureDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1578656341350" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1580117098087">
+      <screen x="0" y="168" width="1920" height="912" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.141.1920.1080/0.168.1920.912@0.168.1920.912" timestamp="1580117098087" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -243,6 +347,11 @@
           <url>file://$PROJECT_DIR$/src/uebung11/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KlausurSoSe19/exercise7/Node.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

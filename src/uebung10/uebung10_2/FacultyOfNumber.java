@@ -5,7 +5,7 @@ public class FacultyOfNumber {
     public static void main(String[] args)  {
 
         try {
-            System.out.println(factorial(10));
+            System.out.println(factorial(1));
         } catch (FacultyTooLargeException e) {
             System.out.println("Number too Large");
         }

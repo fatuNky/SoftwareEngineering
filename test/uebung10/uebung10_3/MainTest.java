@@ -1,6 +1,5 @@
 package uebung10.uebung10_3;
 
-import Klausur.exercise4.Student;
 import org.junit.Test;
 import uebung3.uebung3_1.Person;
 

@@ -69,19 +69,10 @@ public class Node {
     }
 
     public boolean contains(int content) {
-
         boolean doesContain = false;
-        if (content == this.content) {
-            doesContain = true;
-        }
-
-        if (content < this.content && left != null) {
-            doesContain = left.contains(content);
-        }
-
-        if (content > this.content && right != null) {
-            doesContain = right.contains(content);
-        }
+        if (content == this.content) doesContain = true;
+        if (content < this.content && left != null) doesContain = left.contains(content);
+        if (content > this.content && right != null) doesContain = right.contains(content);
         return doesContain;
     }
 
@@ -92,7 +83,7 @@ public class Node {
         }
 
         if (left != null && right != null) {
-            return (left.isFull() && right.isFull());
+            return left.isFull() && right.isFull();
         }
         return false;
 
