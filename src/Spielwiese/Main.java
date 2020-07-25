@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args)
     {
+
         //entschlüsseln
         System.out.println("Wählen Sie drei der nachfolgenden Walzennummer: 50, 51, 60, 61, 70, 71");
         Scanner s1 = new Scanner (System.in);

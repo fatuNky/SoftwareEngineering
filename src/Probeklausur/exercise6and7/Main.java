@@ -1,6 +1,9 @@
 package Probeklausur.exercise6and7;
 
+import uebung7.uebung7_6bis9.Passenger;
+
 import java.util.Arrays;
+import java.util.Map;
 import java.util.function.BiFunction;
 import java.util.function.Supplier;
 
@@ -37,13 +40,10 @@ public class Main {
             System.out.println(numbers[i]);
         }
 
-        TriFunction<Integer, Integer, Integer> sum = (x, y, z) -> x*y+z;
+        TriFunction<Integer, Integer, Integer> sum = (x, y, z) -> x+y+z;
 
 
         System.out.println(sum.apply(5,4,2));
-
-
-
 
 
 

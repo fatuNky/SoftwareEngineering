@@ -21,7 +21,11 @@ public class Main {
 
         Animal an = new Lion();
 
+        an = lion;
+
         lion.getName();
+
+        System.out.println(lion.getName());
 
         print(lion);
 

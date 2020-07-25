@@ -21,8 +21,6 @@ public class Main {
         list.add(9);
 
         System.out.println(findNthOddElement(list, 2));
-
-
     }
 
 

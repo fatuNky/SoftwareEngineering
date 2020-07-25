@@ -5,7 +5,7 @@ public class Main {
 
         Command sayHelloCommand = () -> System.out.println("Hello");
         sayHelloCommand.doSomething();
-        Command anotherCommans = () -> System.out.println("Say something else");
-        anotherCommans.doSomething();
+        Command anotherCommand = () -> System.out.println("Say something else");
+        anotherCommand.doSomething();
     }
 }

@@ -2,7 +2,7 @@ package uebung7.uebung7_1bis4;
 
 import java.util.Iterator;
 
-public class    LList implements Iterable<Node> {
+public class LList implements Iterable<Node> {
 
     private Node head;
 

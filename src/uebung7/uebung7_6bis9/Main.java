@@ -63,7 +63,7 @@ public class Main {
 
         //exercise 7_9
 
-        HashMap<Passenger, Boolean> hasEnteredPlane = new HashMap<>();
+        Map<Passenger, Boolean> hasEnteredPlane = new HashMap<>();
 
         hasEnteredPlane.put(p1, true);
         hasEnteredPlane.put(p3, false);

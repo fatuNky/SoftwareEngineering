@@ -31,7 +31,7 @@ public class MyPrimeCalculator {
      * @param number to be checked if prime
      * @return if number is prime or not
      */
-    public static boolean isPrime(int number) throws TooManyCallsException {
+    public static  boolean isPrime(int number) throws TooManyCallsException {
         tries++;
         if (tries == 4) {
             throw new TooManyCallsException("Exceeded number of tries!");
